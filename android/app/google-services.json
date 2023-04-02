@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "523639837972",
+    "project_id": "testproject-ce553",
+    "storage_bucket": "testproject-ce553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523639837972:android:246eeca3b8c66e8fb8de01",
+        "android_client_info": {
+          "package_name": "com.dileep.test.video_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523639837972-2tog7mffeie5varc91v7q5ipu0jnojb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dileep.test.video_player",
+            "certificate_hash": "ba91e14001789331e6bdaf24e4e47bf24b803862"
+          }
+        },
+        {
+          "client_id": "523639837972-qgef1a4fghsfkbib7jhu65rkf4rs0kp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUYTsuo1wfYenL2jppLnZHMKvY8Y-9rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523639837972-qgef1a4fghsfkbib7jhu65rkf4rs0kp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523639837972-offu15j2g4c7kut5l9e8qnn3o4honfu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dileep.test.videoPlayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
